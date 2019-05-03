@@ -1,0 +1,1 @@
+java -jar target/custom-collector-java8.jar CollectorBenchmark -wi 2 -i 5 -f 1
